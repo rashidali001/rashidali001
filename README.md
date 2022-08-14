@@ -1,5 +1,6 @@
 ## Hi <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" height="24px" width="24px" alt="hi">, 
 
+
 <!-- [![rashidali001.png](assets/projects/rashidali001.png)](https://hb-rashidali001.netlify.app) -->
 
 <!-- ## Check out: -->
@@ -19,7 +20,7 @@ I am a software engineer with 1+ year experience in building web apps. I love to
 I have deployed several sites some of which am showcasing in the <a href="#sample-projects">Sample Projects</a> section.
 
 #### Top Technologies
-
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)
 
 ### 📊 Monthly development breakdown
@@ -32,9 +33,10 @@ I have deployed several sites some of which am showcasing in the <a href="#sampl
 
 <p align="left">
 
+
+  <img src="https://img.shields.io/badge/c-%2300599C.svg" alt="React" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40" />
-  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40" />  
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="40" height="40" />
   <!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40" /> -->
@@ -419,24 +421,24 @@ I have deployed several sites some of which am showcasing in the <a href="#sampl
   <a href="www.linkedin.com/in/rashidbakari">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
-  <a href="https://instagram.com/rashidali001.hb">
+ <!-- <a href="https://instagram.com/rashidali001.hb">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
-  </a>&nbsp;&nbsp;
+  </a>&nbsp;&nbsp;-->
  <!--<a href="https://wa.me/+254792496898">
   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
  </a>&nbsp;&nbsp;-->
  <a href="mailto:rashidestonian@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
  </a>&nbsp;&nbsp;
-  <a href="https://t.me/rashidali001">
+ <!-- <a href="https://t.me/rashidali001">
   <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
- </a> &nbsp;&nbsp;
+ </a> &nbsp;&nbsp;-->
 </p>
 
 <p align='center'>
-  <a href="https://twitter.com/rashidali001_hb">
+ <!-- <a href="https://twitter.com/rashidali001_hb">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>&nbsp;&nbsp;
+  </a>&nbsp;&nbsp;-->
   <a href="https://github.com/rashidali001">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />        
   </a>&nbsp;&nbsp;
