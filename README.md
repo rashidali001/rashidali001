@@ -227,7 +227,7 @@ I have deployed several sites some of which am showcasing in the <a href="#sampl
 </table>
 
 <br />-->
-
+<!--
   <h2>Certifications</h2>  
 <table>
   <tbody>
@@ -412,20 +412,20 @@ I have deployed several sites some of which am showcasing in the <a href="#sampl
   </tbody>
 </table>
 </details>
-</h2>
+</h2>-->
 
 <h3 align="center" style="color:yellow;margin-bottom: 20px;" >Let's Connect<img src="https://github.com/hariketsheth/hariketsheth/blob/main/img/handshake.gif" height="32px" style="margin-bottom: -5px;"  > </h3>  
 <p align='center'>
-  <a href="https://www.linkedin.com/in/rashidali001/">
+  <a href="www.linkedin.com/in/rashidbakari">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
   <a href="https://instagram.com/rashidali001.hb">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
   </a>&nbsp;&nbsp;
- <a href="https://wa.me/+254792496898">
+ <!--<a href="https://wa.me/+254792496898">
   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
- </a>&nbsp;&nbsp;
- <a href="mailto:hesbonosoro1@gmail.com">
+ </a>&nbsp;&nbsp;-->
+ <a href="mailto:rashidestonian@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
  </a>&nbsp;&nbsp;
   <a href="https://t.me/rashidali001">
@@ -440,12 +440,12 @@ I have deployed several sites some of which am showcasing in the <a href="#sampl
   <a href="https://github.com/rashidali001">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />        
   </a>&nbsp;&nbsp;
- <a href="https://www.reddit.com/user/rashidali001">
+ <!--<a href="https://www.reddit.com/user/rashidali001">
   <img src="	https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" />
  </a>&nbsp;&nbsp;
  <a href="https://www.youtube.com/channel/UCgHKQfyNh8thOZtS4kfQG-A">
   <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
- </a>&nbsp;&nbsp;
+ </a>&nbsp;&nbsp;-->
 </p>
 
 <!-- <h1> Skills</h1>
