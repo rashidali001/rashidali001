@@ -2,15 +2,7 @@
 
 <!-- [![rashidali001.png](assets/projects/rashidali001.png)](https://hb-rashidali001.netlify.app) -->
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/9fef8153-c463-4241-8f68-3342069d4495/deploy-status)](https://app.netlify.com/sites/hb-rashidali001/deploys)
-
-<!-- ![Website](https://img.shields.io/website?url=https%3A%2F%2Fhb-rashidali001.netlify.app%2F)
-
-## Check out: -->
-
-[Firebase](https://rashidali001-6cb19.web.app/) or [Netlify](https://hb-rashidali001.netlify.app/) deployed portfolios.
-
-[Google](https://g.dev/rashidali001)
+<!-- ## Check out: -->
 
 ```mermaid
 pie title Typical Daily Activities
@@ -20,36 +12,19 @@ pie title Typical Daily Activities
     "Other": 5
 ```
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=2FA4D7&height=30&lines=I'm+Hesbon;A.K.A+rashidali001)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=I'm+Rashid;Software+engineer;Front+End+Heavy;Cisco+Certified+Network+Associate)](https://git.io/typing-svg)
 
-I am a motivated software engineer with 3+ years of experience in building web applications. I don't just write code, I really fancy problem-solving and collaborating with various stakeholders. I am currently looking for new and challenging opportunities that help me become a better engineer.
-
-<!-- An avid programmer and fast learner. Obsessed with detail and quality.
-Always trying to improve development and communication processes. I love
-simple and elegant solutions to every problem. I am seeking a position in a
-growth-oriented company where I can use my skills to the advantage of the
-company while having the scope to develop my skills. -->
+I am a software engineer with 1+ year experience in building web apps. I love to code and really enjoy solving problems and collatorating with my peers.
 
 I have deployed several sites some of which am showcasing in the <a href="#sample-projects">Sample Projects</a> section.
 
 #### Top Technologies
 
-[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#)
+[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)
 
 ### 📊 Monthly development breakdown
 
 <!--START_SECTION:waka-->
-
-```text
-From: 24 June 2022 - To: 24 July 2022
-
-JavaScript   14 hrs 58 mins  █████████████▓░░░░░░░░░░░   54.58 %
-CSS          5 hrs 34 mins   █████░░░░░░░░░░░░░░░░░░░░   20.32 %
-JSON         2 hrs 28 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.01 %
-TypeScript   1 hr 40 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.13 %
-Markdown     1 hr 12 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 %
-Other        24 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.46 %
-```
 
 <!--END_SECTION:waka-->
 
