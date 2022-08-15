@@ -508,10 +508,10 @@ I have deployed several sites some of which am showcasing in the <a href="#sampl
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rashidali001&repo=rashidali001&theme=dark&title_color=009933)](https://github.com/rashidali001/rashidali001&show_owner=true&count_private=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rashidali001&layout=compact&theme=dark&title_color=009933)](https://github.com/rashidali001/rashidali001)
-
+<!--
 [![rashidali001's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rashidali001&theme=dark&title_color=009933)](https://github.com/rashidali001/rashidali001)
 
-[![wakatime](https://wakatime.com/badge/user/fa16291f-4e49-4666-aac0-4f2b693ed97b.svg)](https://wakatime.com/@fa16291f-4e49-4666-aac0-4f2b693ed97b)
+[![wakatime](https://wakatime.com/badge/user/fa16291f-4e49-4666-aac0-4f2b693ed97b.svg)](https://wakatime.com/@fa16291f-4e49-4666-aac0-4f2b693ed97b)-->
 
 ### Unique Views
 
