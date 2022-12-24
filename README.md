@@ -486,16 +486,11 @@ I have deployed several sites some of which am showcasing in the <a href="#sampl
 
 ## Contribution Graph
 
-<p>
-  <img align="left" src="https://activity-graph.herokuapp.com/graph?username=rashidali001&theme=github" alt="rashidali001" />
-</p>
-&nbsp;
-<br />
+[![Rashid's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=rashidali001&bg_color=121112&color=a8a4a7&line=1ca01f&point=dbe1dd&area=true&hide_border=true&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ### 🏆 <!--My Trophies-->
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=rashidali001&theme=onedark&no-bg=false&count_private=true)](https://github.com/rashidali001/rashidali001)
-
 
 <!--### Github Stats-->
 
