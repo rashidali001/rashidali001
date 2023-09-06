@@ -15,7 +15,7 @@ pie title Typical Daily Activities
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=I'm+Rashid;Software+engineer;Front+End+Heavy;Cisco+Certified+Network+Associate)](https://git.io/typing-svg)
 
-I am a software engineer with 1+ year experience in building web apps. I love to code and really enjoy solving problems and collatorating with my peers.
+I am a software engineer with years of experience in building web apps. I love to code and really enjoy solving problems and collatorating with my peers.
 
 I have deployed several sites some of which am showcasing in the <a href="#sample-projects">Sample Projects</a> section.
 
